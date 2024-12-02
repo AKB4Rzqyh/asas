@@ -301,7 +301,7 @@ c. 25
 22. Luas selimut tabung dengan jari-jari alas 14 cm dan tinggi 10 cm adalah....
 
 
-! [gambar] (https://github.com/AKB4Rzqyh/asas/blob/main/IMG_20241202_214236.jpg) 
+![gambar](https://github.com/AKB4Rzqyh/asas/blob/main/IMG_20241202_214236.jpg) 
 
 
 
